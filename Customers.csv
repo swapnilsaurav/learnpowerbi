@@ -1,4 +1,11 @@
 CustomerID,CustomerName,RegionID
-1,Alice,101
-2,Bob,102
-3,Charlie,101
+1,Customer_1,203
+2,Customer_2,201
+3,Customer_3,203
+4,Customer_4,203
+5,Customer_5,201
+6,Customer_6,201
+7,Customer_7,203
+8,Customer_8,202
+9,Customer_9,203
+10,Customer_10,203

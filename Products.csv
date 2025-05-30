@@ -1,4 +1,11 @@
 ProductID,ProductName,CategoryID
-201,Laptop,301
-202,Tablet,301
-203,Smartphone,302
+101,Product_101,303
+102,Product_102,303
+103,Product_103,301
+104,Product_104,303
+105,Product_105,302
+106,Product_106,301
+107,Product_107,302
+108,Product_108,302
+109,Product_109,302
+110,Product_110,302
